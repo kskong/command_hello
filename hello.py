@@ -1,4 +1,4 @@
-// For comand line git tuturial
+// For comand line git tutorial
 // GitHub modification
 
 print("Hello world")
